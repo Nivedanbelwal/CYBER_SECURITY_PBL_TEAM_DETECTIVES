@@ -42,9 +42,9 @@ To use locally:
 └── nlp_model/         # Directory for your basic NLP code
 
 👥 Team
-Nivedan Belwal
-Vyomesh Chauhan
-Sourabh Kumar Singh
+Nivedan Belwal,
+Vyomesh Chauhan,
+Sourabh Kumar Singh,
 Vansh Pant
 
 
