@@ -1,4 +1,3 @@
-// Function to clean and format text
 function cleanText(text) {
     return text
         .replace(/\s+/g, ' ')

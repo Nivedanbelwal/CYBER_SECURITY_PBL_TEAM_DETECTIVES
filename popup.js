@@ -66,4 +66,4 @@ document.addEventListener('DOMContentLoaded', function() {
             error.textContent = 'Error scanning page. Please make sure the backend server is running at http://localhost:5000';
         }
     });
-}); 
+});
