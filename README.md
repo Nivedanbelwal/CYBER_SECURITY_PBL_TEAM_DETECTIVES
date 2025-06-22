@@ -16,7 +16,7 @@
 
 - **HTML, CSS, JavaScript** – Frontend for the extension interface.
 - **Basic NLP model (Python)** – Trained for summarization of legal language.
-- **Flask (Optional)** – To serve the NLP model if needed.
+- **Flask** – To serve the NLP model if needed.
 - **Chrome Extension APIs** – For integrating with browser content.
 
 ---
@@ -47,7 +47,6 @@ CYBER_SECURITY_PBL_TEAM_DETECTIVES/
 ├── popup.js         # Displays summary from the NLP model
 ├── manifest.json    # Chrome extension metadata
 ├── styles.css       # Styling for the popup
-└── nlp_model/       # Directory for your basic NLP code
 ```
 
 ---
